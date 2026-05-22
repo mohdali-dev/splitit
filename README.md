@@ -31,11 +31,56 @@
 
 <br />
 
+<div align="center">
+
+## 🚀 Live Demo
+
+<a href="https://splitit-app-nu.vercel.app/">
+  <img src="https://img.shields.io/badge/_Launch_Splitit._-4A5D4E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FAF8F5" alt="Launch Splitit." />
+</a>
+
+<br />
+<sub><strong>Zero-Cloud • Privacy-First • Instant Share</strong></sub>
+
+<br /><br />
+
+> 💡 **Pro Tip:** Open on mobile and tap **"Add to Home Screen"** to install as a native-like PWA. No app store download required!
+
+</div>
+
+## 📱 App Gallery
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./public/screen1.png" width="220" alt="Dashboard View" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+      <br><sub><b>Dashboard</b></sub>
+    </td>
+    <td align="center">
+      <img src="./public/screen2.png" width="220" alt="Add Expense Flow" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+      <br><sub><b>Add Expense</b></sub>
+    </td>
+    <td align="center">
+      <img src="./public/screen3.png" width="220" alt="Smart Splitting Logic" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+      <br><sub><b>Smart Splitting</b></sub>
+    </td>
+    <td align="center">
+      <img src="./public/screen4.png" width="220" alt="Premium Canvas Receipt" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+      <br><sub><b>Premium Receipts</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
 ---
 
 ## 🌿 Philosophy
 
-Modern financial utilities have become bloated with intrusive tracking, mandatory cloud accounts, and micro-transactions. **splitit.** was designed to counter this.
+Modern financial utilities have become bloated with intrusive tracking, mandatory cloud accounts, and micro-transactions. **Splitit.** was designed to counter this.
 
 > ✨ A utility built for close companions, couples, and roommates who want to calculate and balance peer expenses instantly on a shared phone screen — **without compromising their personal data.**
 
