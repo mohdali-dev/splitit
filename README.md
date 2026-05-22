@@ -30,6 +30,13 @@
 </p>
 
 <br />
+---
+
+## 🚀 Live Demo
+
+ **[Try Splitit. here](https://splitit-app-nu.vercel.app/)**
+
+> **Note:** Since Splitit. is a Progressive Web App (PWA), you can add it to your home screen on mobile for a native app-like experience. All data remains strictly on your device.
 
 ---
 
