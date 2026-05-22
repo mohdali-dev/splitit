@@ -1,0 +1,6 @@
+{
+  "name": "splitit.",
+  "description": "A simple, fast mobile-first app for tracking and splitting shared expenses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
