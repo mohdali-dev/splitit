@@ -32,10 +32,25 @@
 <br />
 <div align="center">
 
+<div align="center">
+
 ## 🚀 Live Demo
 
-<a href="https://splitit-app-nu.vercel.app/">
-  <img src="https://img.shields.io/badge/_Launch_Splitit._-4A5D4E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FAF8F5" alt="Launch Splitit." />
+<a href="https://splitit-app-nu.vercel.app/" style="text-decoration: none;">
+  <button style="
+    background-color: #4A5D4E;
+    color: #FAF8F5;
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+  ">
+    🚀 Launch Splitit.
+  </button>
 </a>
 
 <br />
@@ -46,8 +61,6 @@
 > 💡 **Pro Tip:** Open on mobile and tap **"Add to Home Screen"** to install as a native-like PWA. No app store download required!
 
 </div>
-
----
 
 ## 🌿 Philosophy
 
