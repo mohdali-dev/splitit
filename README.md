@@ -1,4 +1,4 @@
-# 🧭 splitit.
+# 🧭 Splitit.
 
 > **The way to share expenses.**  
 > *Zero-cloud. Privacy-first. Beautifully simple.*
@@ -268,7 +268,7 @@ npm run deploy
 Visit: `https://yourusername.github.io/splitit-app/`
 
 ### Option 3: Any Static Host
-Since splitit. is 100% static:
+Since Splitit. is 100% static:
 ```bash
 npm run build
 # Upload /dist folder to:
@@ -282,7 +282,7 @@ npm run build
 
 ## 📱 Progressive Web App (PWA) Features
 
-splitit. is installable and works offline:
+Splitit. is installable and works offline:
 
 ✅ Add to Home Screen prompt  
 ✅ Offline-first with localStorage persistence  
@@ -368,5 +368,5 @@ SOFTWARE.
 
 <p align="center">
   <sub>Made with 🫶 for roommates, couples, and friends who value privacy.</sub><br>
-  <strong>splitit.</strong> — <em>The way to share expenses.</em>
+  <strong>Splitit.</strong> — <em>The way to share expenses.</em>
 </p>
