@@ -55,19 +55,19 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./public/screen1.png" width="220" alt="Dashboard View" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+      <img src="./assets/Screen1.png" width="220" alt="Dashboard View" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
       <br><sub><b>Dashboard</b></sub>
     </td>
     <td align="center">
-      <img src="./public/screen2.png" width="220" alt="Add Expense Flow" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+      <img src="./assets/Screen2.png" width="220" alt="Add Expense Flow" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
       <br><sub><b>Add Expense</b></sub>
     </td>
     <td align="center">
-      <img src="./public/screen3.png" width="220" alt="Smart Splitting Logic" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+      <img src="./assets/Screen3.png" width="220" alt="Smart Splitting Logic" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
       <br><sub><b>Smart Splitting</b></sub>
     </td>
     <td align="center">
-      <img src="./public/screen4.png" width="220" alt="Premium Canvas Receipt" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+      <img src="./assets/Screen4.png" width="220" alt="Premium Canvas Receipt" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
       <br><sub><b>Premium Receipts</b></sub>
     </td>
   </tr>
@@ -76,8 +76,6 @@
 </div>
 
 ---
----
-
 ## 🌿 Philosophy
 
 Modern financial utilities have become bloated with intrusive tracking, mandatory cloud accounts, and micro-transactions. **Splitit.** was designed to counter this.
