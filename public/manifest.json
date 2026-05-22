@@ -1,7 +1,7 @@
 {
   "name": "Splitit.",
   "short_name": "Splitit",
-  "description": "Zero-cloud expense sharing for roommates & couples.",
+  "description": "A privacy-first utility to split expenses offline.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#FAF8F5",
