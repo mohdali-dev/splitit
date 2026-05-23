@@ -4,10 +4,6 @@
 
 <br />
 
-<!-- 🎨 Animated Hero Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=🧾%20Splitit&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=white&desc=Zero-cloud%20•%20Privacy-first%20•%20Beautifully%20simple%20expense%20sharing&descAlignY=58&descAlign=50&stroke=4A5D4E" alt="Splitit Header"/>
-</p>
 
 <!-- ⌨️ Dynamic Typing Effect -->
 <p align="center">
