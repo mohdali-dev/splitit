@@ -35,7 +35,7 @@
 
 ## 🚀 Live Demo
 
-<a href="https://splitit-app-nu.vercel.app/">
+<a href="https://splitit-nu.vercel.app/">
   <img src="https://img.shields.io/badge/_Launch_Splitit._-4A5D4E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FAF8F5" alt="Launch Splitit." />
 </a>
 
