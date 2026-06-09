@@ -10,5 +10,8 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": false
   },
-  "markdownlint.enable": false
+  "markdownlint.enable": false,
+  "markdownlint.config": {
+    "default": false
+  }
 }
