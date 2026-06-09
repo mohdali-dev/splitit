@@ -14,6 +14,12 @@
   --app-muted: #8C8A7D;
   --app-border: #D9C5B2;
   --app-border-light: #EBE8DF;
+  
+  /* Safe area insets for notched devices */
+  --safe-area-inset-top: env(safe-area-inset-top, 0px);
+  --safe-area-inset-right: env(safe-area-inset-right, 0px);
+  --safe-area-inset-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-area-inset-left: env(safe-area-inset-left, 0px);
 }
 
 .dark {
@@ -30,6 +36,59 @@
   --app-muted: #A3A196;
   --app-border: #4A4A46;
   --app-border-light: #3D3D3A;
+}
+
+/* Mobile optimizations */
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  /* Prevent unwanted text selection on mobile */
+  -webkit-user-select: none;
+  user-select: none;
+  /* Smooth scrolling */
+  scroll-behavior: smooth;
+  /* Better touch scrolling performance */
+  -webkit-touch-callout: none;
+  /* Prevent double tap zoom */
+  -webkit-tap-highlight-color: transparent;
+  /* Force GPU acceleration */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Allow text selection in interactive elements */
+input, textarea, [contenteditable] {
+  -webkit-user-select: text;
+  user-select: text;
+}
+
+/* Optimize buttons for touch */
+button, a {
+  /* Minimum 44x44px touch target */
+  min-width: 44px;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Better scrolling on iOS */
+.overflow-y-auto,
+.overflow-auto {
+  -webkit-overflow-scrolling: touch;
 }
 
 @theme {

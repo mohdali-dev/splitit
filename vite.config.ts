@@ -18,7 +18,45 @@ export default defineConfig(({mode}) => {
           description: 'A privacy-first utility to split expenses offline.',
           theme_color: '#4A5D4E',
           background_color: '#F2F0E9',
-          display: 'standalone'
+          display: 'standalone',
+          orientation: 'portrait-primary',
+          scope: '/',
+          start_url: '/',
+          categories: ['finance', 'productivity'],
+          icons: [
+            {
+              src: '/icon-192.png',
+              sizes: '192x192',
+              type: 'image/png',
+              purpose: 'any'
+            },
+            {
+              src: '/icon-192.png',
+              sizes: '192x192',
+              type: 'image/png',
+              purpose: 'maskable'
+            },
+            {
+              src: '/icon-512.png',
+              sizes: '512x512',
+              type: 'image/png',
+              purpose: 'any'
+            },
+            {
+              src: '/icon-512.png',
+              sizes: '512x512',
+              type: 'image/png',
+              purpose: 'maskable'
+            }
+          ],
+          screenshots: [
+            {
+              src: '/icon-512.png',
+              sizes: '512x512',
+              type: 'image/png',
+              form_factor: 'narrow'
+            }
+          ]
         },
         workbox: {
           globPatterns: ['**/*.{js,css,html,ico,png,svg,woff,woff2}']
